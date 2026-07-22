@@ -1,0 +1,6 @@
+{
+  "name": "Spanish Gender Mastery - Իսպաներենի սեռեր",
+  "description": "Իսպաներենի գոյականների արական և իգական սեռերի ուսուցում (էլ/լա), տեսություն, բացառություններ և 5 ինտերակտիվ խաղ:",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
